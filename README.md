@@ -1,4 +1,4 @@
-# intalação do Spring Boot
+# Instalação do Spring Boot
 
 - Acesse o site do [SPRING](https://spring.io/) e siga as imagens a seguir.
 - Clique na aba "Projects"
