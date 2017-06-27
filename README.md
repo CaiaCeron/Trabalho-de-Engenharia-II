@@ -1,23 +1,30 @@
-# Instalação do Spring Boot
+# Trabalho De Engenharia de Software II
 
-- Acesse o site do [SPRING](https://spring.io/) e siga as imagens a seguir.
-- Clique na aba "Projects"
-![foo](https://cdn.discordapp.com/attachments/169152372612923392/329053706320478210/unknown.png)
-- Clique na opção "Spring boot".
-![foo](https://cdn.discordapp.com/attachments/169152372612923392/329053792316424193/unknown.png)
-- Clique em "QUICK START".
-![foo](https://cdn.discordapp.com/attachments/169152372612923392/329053860138319882/unknown.png)
-- Clique no link start.spring.io. 
-![foo](https://cdn.discordapp.com/attachments/169152372612923392/329053914957611019/unknown.png)
-- Preencha as opções, e clique em "Generate Project".
-![foo](https://cdn.discordapp.com/attachments/169152372612923392/329054525904257035/unknown.png)
+# Integrantes:
+- Caiã Ceron Silva.
+- Jaco Protzen Wally.
 
-![foo](https://cdn.discordapp.com/attachments/169152372612923392/329054971452719105/unknown.png)
+# Spring Boot
 
-![foo](https://cdn.discordapp.com/attachments/169152372612923392/329055141951045634/unknown.png)
+O Spring Boot foi criado para o desenvolvimento de aplicações que utilizam o framework Spring sem que seja necessária praticamente nenhuma configuração. O Spring Boot é capaz de identificar quais as principais características da aplicação que está sendo desenvolvida e fazer automaticamente as configurações necessárias, ganhando muito em produtividade, focando apenas no desenvolvimento da aplicação e não na configuração das ferramentas e frameworks utilizados, que são repetidos em praticamente todos os projetos.
+O Spring necessitou de diversas configurações, mas versão a versão a ferramenta vem melhorando essa característica. No início, toda a configuração do Spring era feita com arquivos XML, mas na versão 2.5 foram introduzidas as anotações para que a mesma fosse feita diretamente no código, eliminando boa parte dos arquivos XML, facilitando bastante a configuração das aplicações. Com o Spring Boot, a ideia é que praticamente nenhuma configuração seja necessária.
 
-![foo](https://cdn.discordapp.com/attachments/169152372612923392/329055196342648832/unknown.png)
+Ele tem quatro componentes principais:
+1.	Configuração Automática: O Spring Boot identifica automaticamente as configurações necessárias pelo tipo de aplicação;
+2.	Dependências Automáticas: O Spring Boot adiciona, pelo tipo de projeto, um conjunto de bibliotecas que já foram testadas juntas, diminuindo problemas de compatibilidade;
+3.	Interface de Linha de Comando: disponibiliza uma interface de linha de comando onde o programador pode, de maneira fácil, criar, executar e modificar uma aplicação;
+4.	Actuator: É uma ferramenta que permite ao programador verificar o que está acontecendo internamente em uma aplicação com o Spring Boot.
+Nesse artigo será mostrado como configurar a aplicação utilizando as configurações e as dependências automáticas do Spring Boot para criar uma aplicação web de maneira rápida e fácil e com praticamente nenhuma configuração necessária. Tecnicamente, vamos construir uma aplicação com o framework Spring MVC, o Spring Data JPA para fazer a persistência dos dados, o banco de dados H2 que já vem na instalação padrão do Spring Boot e o Thymeleaf para definir as visões. Este último é um template engine que substituiu o JSP.
 
-![foo](https://cdn.discordapp.com/attachments/169152372612923392/329055565944848394/unknown.png)
+A documentação do Spring Boot se encontra em https://spring.io/docs/reference com outros projetos Spring.
+- link [Video](https://youtu.be/B0n81FgEEtY)
 
-- Pronto a base do seu projeto foi criada em alguns cliques!
+# Vantagens do FrameWork:
+- Fácil Instalação.
+- Configuração Mínima.
+- Toda a base do projeto já vem configurada.
+- Não é necessário a configuração do pom.xml
+
+# Desvantagens do FrameWork
+- Difícil entendimento devido ao vasto numero de funções que possui.
+- Não Possui uma Documentação em Português.
