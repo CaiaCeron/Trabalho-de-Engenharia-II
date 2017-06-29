@@ -30,3 +30,10 @@ A documentação do Spring Boot se encontra em https://spring.io/docs/reference 
 # Desvantagens do FrameWork
 - Difícil entendimento devido ao vasto numero de funções que possui.
 - Não Possui uma Documentação em Português.
+- Muitas de suas Funções são de dificil compreenção de seu funcionamento.
+
+# Requisitos Para Utilização do Aplicativo
+- Java SDK 8.
+- IDE de sua escolha. (recomendamos NetBeans)
+- Banco de Dados Mysql.
+- Spring Boot 1.5.4 .
