@@ -36,4 +36,5 @@ A documentação do Spring Boot se encontra em https://spring.io/docs/reference 
 - Java SDK 8.
 - IDE de sua escolha. (recomendamos NetBeans)
 - Banco de Dados Mysql.
-- Spring Boot 1.5.4 .
+- Spring Boot 1.5.4
+- Thymeleaf 1.5.4
