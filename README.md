@@ -45,5 +45,5 @@ A documentação do Spring Boot se encontra em https://spring.io/docs/reference 
 # Desvantagens do FrameWork
 - Difícil entendimento devido ao vasto numero de funções que possui.
 - Não Possui uma Documentação em Português.
-- Muitas de suas Funções são de dificil compreenção de seu funcionamento.
+- Muitas de suas Funções são de dificil compreenção.
 
