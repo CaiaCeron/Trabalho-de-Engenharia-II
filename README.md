@@ -21,6 +21,21 @@ Nesse artigo será mostrado como configurar a aplicação utilizando as configur
 A documentação do Spring Boot se encontra em https://spring.io/docs/reference com outros projetos Spring.
 - link [Video](https://youtu.be/B0n81FgEEtY)
 
+# Requisitos Para Utilização do Aplicativo
+- Java SDK 8.
+- IDE de sua escolha. (recomendamos NetBeans)
+- Banco de Dados Mysql.
+- Spring Boot 1.5.4
+- Thymeleaf 1.5.4
+
+# Como Instalar o Aplicativo
+1. Baixe o arquivo eng.zip do Repositorio.
+2. Inicie sua IDE, vá a opção de importar o arquivo, feito isso.
+3. De um build and Clean no Projeto, espere todos as dependencias serem baixadas.
+4. execute o arquivo EngApplication.java que se encontra no pacote com.engenharia.eng.
+5. Abra seu browser e digite na barra de navegação "localhost:8080" (sem aspas).
+6. Pronto a Aplicação está funcionando corretamente.
+
 # Vantagens do FrameWork:
 - Fácil Instalação.
 - Configuração Mínima.
@@ -32,9 +47,3 @@ A documentação do Spring Boot se encontra em https://spring.io/docs/reference 
 - Não Possui uma Documentação em Português.
 - Muitas de suas Funções são de dificil compreenção de seu funcionamento.
 
-# Requisitos Para Utilização do Aplicativo
-- Java SDK 8.
-- IDE de sua escolha. (recomendamos NetBeans)
-- Banco de Dados Mysql.
-- Spring Boot 1.5.4
-- Thymeleaf 1.5.4
