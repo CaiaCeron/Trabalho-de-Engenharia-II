@@ -19,7 +19,7 @@ Ele tem quatro componentes principais:
 Nesse artigo será mostrado como configurar a aplicação utilizando as configurações e as dependências automáticas do Spring Boot para criar uma aplicação web de maneira rápida e fácil e com praticamente nenhuma configuração necessária. Tecnicamente, vamos construir uma aplicação com o framework Spring MVC, o Spring Data JPA para fazer a persistência dos dados, o banco de dados H2 que já vem na instalação padrão do Spring Boot e o Thymeleaf para definir as visões. Este último é um template engine que substituiu o JSP.
 
 A documentação do Spring Boot se encontra em https://spring.io/docs/reference com outros projetos Spring.
-- Video Ilustrativo [Parte 1](https://youtu.be/FZDnqVICLus) [Parte 2]() [Parte 3]() [Parte 4]()
+- Video Ilustrativo | [Parte 1](https://youtu.be/FZDnqVICLus) / [Parte 2]() / [Parte 3]() / [Parte 4]() |
 
 # Requisitos Para Utilização do Aplicativo
 - Java SDK 8.
